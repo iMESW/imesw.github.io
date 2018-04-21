@@ -1,95 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Mobile System Gang</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
-    .jumbotron {
-      margin-top: -20px;
-      margin-bottom: 10px;
-    }
-    .bg-1 {
-      background-color: #f0f0f0;
-    }
+# intelligent Mobile Embedded Software Research Group
 
-  </style>
-</head>
+# MEMBERS
+* Junyoung Heo
+* Hong Min
+* Jinman Jung
+* Bongjae Kim
 
-<body>
+# RESEARCH
+## Mobile(Smartphone, Drone) System
+* Drone Computation
+* Android Open Lecture [<a href="https://github.com/jyheo/android-lecture">Github</a>]
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">MobileSystemGang</a>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#">HOME</a></li>
-        <li><a href="#member">MEMBER</a></li>
-        <li><a href="#research">RESEARCH</a></li>
-        <li><a href="publications.html">PUBLICATIONS</a></li>
-        <li><a href="#upcoming">UPCOMING EVENTS</a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
+## Intelligent System
+## Wireless Sensor Networks
+* WSN simulator in Python [Github](https://github.com/jyheo/pywsn)
+* Simple WSN in OMNET++ [Bitbucket](https://bitbucket.org/jyheo/simple_wsn)
 
-<div class="container-fluid jumbotron">
-  <h1>Mobile System Gang</h1>
-  <p>We are mobile & Intelligent system research group!</p>
-</div>
+# UPCOMING EVENTS
+* [KIISE KCC 2018]("http://www.kiise.or.kr/conference/main/index.do?CC=kcc&CS=2018")
+* [ACM RACS 2018]("https://sites.google.com/site/acmracs2018/home")
+* [ACM SAC 2018]("https://www.sigapp.org/sac/sac2018/")
 
-<div class="container" id="member">
-  <h3>MEMBER</h3>
-  <ul>
-    <li>Junyoung Heo</li>
-    <li>Hong Min</li>
-    <li>Jinman Jung</li>
-    <li>Bongjae Kim</li>
-  </ul>
-</div>
+# Publications
 
-<div class="container-fluid bg-1">
-  <div class="container" id="research">
-    <h3>RESEARCH</h3>
-    <ul>
-	  <li>Mobile(Smartphone, Drone) System</li>
-	    <ul>
-		  <li>Drone Computation</li>
-		  <li>Android Open Lecture [<a href="https://github.com/jyheo/android-lecture">Github</a>]</li>
-		</ul>
-	  <li>Intelligent System</li>
-		<ul>
-		  <li>Automatic Coloring [<a href="https://github.com/MobileSystemGang/deepcolor">Github</a>]</li>
-		  <li>Intelligent Web Content Extractor [<a href="https://github.com/jyheo/BoilerPy">Github</a>]</li>
-		</ul>
-      <li>Wireless Sensor Networks</li>
-	    <ul>
-		  <li>WSN simulator in Python [<a href="https://github.com/jyheo/pywsn">Github</a>]</li>
-		  <li>Simple WSN in OMNET++ [<a href="https://bitbucket.org/jyheo/simple_wsn">Bitbucket</a>]</li>
-		</ul>
+## Conference
+* Genetic Algorithm based Patching Scheme for Worm Containment on Social Network
+    - ACM SAC 2017
+    - [ACM DL](http://dl.acm.org/citation.cfm?id=3019912)
+* Dynamic Offloading Algorithm for Drone Computation
+    - ACM RACS 2016
+    - [ACM DL](http://dl.acm.org/citation.cfm?id=2987437)
 
-    </ul>
-  </div>
-</div>
+## Journal
+* An Offloading Decision Scheme Considering the Scheduling Latency of the Cloud in Real-time Applications
+    - KIISE Transactions on Computing Practices, Jun. 2017
+    - [LINK](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07180863)
+* Efficient Data Pre-fetching Scheme for InfiniBand based High Performance Clusters
+    - KIISE Transactions on Computing Practices, Vol. 23, No. 5, pp. 293-298, May 2017
+    - [PDF](http://kiise.or.kr/e_journal/2017/5/KTCP/pdf/03.pdf)
+* Configuration Technique of Efficient Wireless Sensor Networks using Node Relocation Algorithm
+    - The Journal of The Institute of Internet, Broadcasting and Communication, Apr. 2017
+    - [LINK](http://jiibc.iibc.kr/read.php?pageGubun=journalsearch&pageNm=article&search=&journal=%EC%A0%9C17%EA%B6%8C%20%EC%A0%9C2%ED%98%B8&code=300923&issue=22299&Page=3&year=2017&searchType=&searchValue=)
+* A Mobility-Aware Adaptive Duty Cycling Mechanism for Tracking Objects during Tunnel Excavation
+    - SENSORS, Feb. 2017
+    - [LINK](http://www.mdpi.com/1424-8220/17/3/435)
+* Rendezvous Node Selection in Interworking of a Drone and Wireless Sensor Networks
+    - The Journal of The Institute of Internet, Broadcasting and Communication, Feb. 2017
+    - [LINK](http://www.iibc.kr/bbs/board.php?bo_table=collect_paper&wr_id=1459&page=0&yy=2017)
+* Survey of Security Issues in Online Social Networks
+    - Communications of the Korean Institute of Information Scientists and Engineers, Feb. 2017 
+    - [LINK](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07107223)
+* Excepted Response Time Model Considering Churn Rate for Dynamic IoT Devices
+    - Indian Journal of Science & Technology, May 2016 
+    - [LINK](http://www.indjst.org/index.php/indjst/article/view/94682)
+* A Function Level Static Offloading Scheme for Saving Energy of Mobile Devices in Mobile Cloud Computing
+    - Journal of KIISE, Vol. 42, No. 6, pp. 707-712, Jun. 2015
+    - [PDF](http://kiise.or.kr/e_journal/2015/6/JOK/pdf/03.pdf)
 
-<div class="container" id="upcoming">
-  <h3>UPCOMING EVENTS</h3>
-  <ul>
-    <!--<li><a href="http://www.kiise.or.kr/conference/kcc/2017/">KIISE KCC 2017</a></li>-->
-    <li><a href="https://sites.google.com/site/acmracs2017/">ACM RACS 2017</a></li>
-    <li><a href="https://www.sigapp.org/sac/sac2018/">ACM SAC 2018</a></li>
-  </ul>
-</div>
-
-</body>
-</html>
