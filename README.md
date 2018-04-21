@@ -1,2 +1,1 @@
-## Mobile System Gang
-Mobile System Research Group Website
+# iMESW intelligent Mobile Embedded Software Research Group Website

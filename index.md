@@ -9,17 +9,20 @@
 # RESEARCH
 ## Mobile(Smartphone, Drone) System
 * Drone Computation
-* Android Open Lecture [<a href="https://github.com/jyheo/android-lecture">Github</a>]
+* Android Open Lecture [Github](https://github.com/jyheo/android-lecture)
 
 ## Intelligent System
+### Automatic Programing
+* sketch2html [Github](https://github.com/iSysLab/sketch2html)
+
 ## Wireless Sensor Networks
 * WSN simulator in Python [Github](https://github.com/jyheo/pywsn)
 * Simple WSN in OMNET++ [Bitbucket](https://bitbucket.org/jyheo/simple_wsn)
 
 # UPCOMING EVENTS
-* [KIISE KCC 2018]("http://www.kiise.or.kr/conference/main/index.do?CC=kcc&CS=2018")
-* [ACM RACS 2018]("https://sites.google.com/site/acmracs2018/home")
-* [ACM SAC 2018]("https://www.sigapp.org/sac/sac2018/")
+* [KIISE KCC 2018](http://www.kiise.or.kr/conference/main/index.do?CC=kcc&CS=2018)
+* [ACM RACS 2018](https://sites.google.com/site/acmracs2018/home)
+* [ACM SAC 2018](https://www.sigapp.org/sac/sac2018/)
 
 # Publications
 
